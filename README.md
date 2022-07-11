@@ -27,7 +27,7 @@ More information at [emojicoin.net](https://www.emojicoin.net)
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>250 EMOJI</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>50 000 000 EMOJI</td></tr>
+<tr><td>Max Coin Supply (PoS Phase)</td><td>100 000 000 EMOJI</td></tr>
 <tr><td>Premine</td><td>250,000 EMOJI*</td></tr>
 </table>
 
